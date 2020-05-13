@@ -12,12 +12,15 @@
 
 // name a variable with $variablename//
 // use quote for strings like always//
+// variables are case sensitive -- $number and $NUMBER are different //
 // don't use quotes with numbers, otherwise PHP won't recognize it//
 
 $name = "Hannah";
 $number = 100;
 
-echo $number; 
+//concatonation looks like this below... you do a dot and space to connect two variables//
+
+echo $name . $number; 
 
 
 
