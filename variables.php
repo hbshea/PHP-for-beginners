@@ -22,6 +22,8 @@ $number = 100;
 
 echo $name . $number; 
 
+// you can assign HTML text and tags to variables //
+
 $name = "<h1>HELLO!</h1>";
 
 echo $name;
