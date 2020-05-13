@@ -22,7 +22,9 @@ $number = 100;
 
 echo $name . $number; 
 
+$name = "<h1>HELLO!</h1>";
 
+echo $name;
 
 ?>
 
