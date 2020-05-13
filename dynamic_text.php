@@ -6,6 +6,14 @@
     <title>Document</title>
 </head>
 <body>
-    
+
+<?php 
+
+$title = "Hannah Shea Official Site";
+
+?>
+
+<h1><?php echo $title; ?></h1>
+
 </body>
 </html>

@@ -6,6 +6,14 @@
     <title>Document</title>
 </head>
 <body>
-    
+<?php
+
+// this function below displays text// 
+
+echo "Hello world";
+
+
+?>
+
 </body>
 </html>
