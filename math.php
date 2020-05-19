@@ -26,6 +26,14 @@ echo "<br>";
 
 echo (5 + 5) * 10;
 
+echo "<br>";
+
+//Math with variables//
+
+$num1 = 12;
+$num2 = 24; 
+
+echo $num1 * $num2;
 
 ?>
 
